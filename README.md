@@ -25,3 +25,6 @@ Vortex App is a Flutter-based document analysis tool designed to intelligently p
    ```bash
    git clone https://github.com/bitlavinithkumar/Vortex-App.git
    cd Vortex-App
+   flutter pub get
+   flutter run
+

@@ -1,16 +1,27 @@
-# my_app
+# Vortex App 🚀
 
-A new Flutter project.
+Vortex App is a Flutter-based document analysis tool designed to intelligently process and analyze documents using advanced machine learning techniques.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 📄 Document Upload & Scanning
+- 🔍 OCR (Optical Character Recognition) Integration
+- 🧠 AI-based Document Validation
+- 📊 Dashboard with Document Status
+- ☁️ Firebase Integration for Storage and Authentication
+- 📷 ML-powered Aadhaar Card Classification (Real vs Fake vs Xerox)
+- 📂 Organized Form-based Data Entry (Aadhaar, 10th, 12th Marksheets)
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend:** Flutter
+- **Backend:** Firebase (Auth, Firestore, Storage)
+- **AI/ML:** Google ML Kit, Custom TensorFlow Lite models
+- **State Management:** Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/bitlavinithkumar/Vortex-App.git
+   cd Vortex-App
